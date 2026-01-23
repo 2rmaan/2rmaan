@@ -21,24 +21,21 @@ I specialize in bridging the gap between ambiguous business needs and technical 
 
 ---
 
-### 🛠️ Technical Arsenal & Methodologies
+### 🛠️ Technical Skills, Methodologies and Languages
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Methodologies** | SAFe®, Scrum, Kanban, Agile, SDLC, PMLC |
+| **Methodologies & Frameworks** | SAFe (Scaled Agile Framework), Scrum, Kanban, Agile, SDLC, PMLC |
+| **Metrics & KPIs** | Velocity & Throughput, Cycle Time/Lead Time, Predictability Reporting, SLA Management |
 | **Management** | Stakeholder Management, Risk Mitigation, Resource Allocation, Strategic Alignment |
-| **Analysis** | Requirements Engineering (BRD, FRD, SRS), Prioritization, User Stories, Acceptance Criteria |
-| **Modeling** | BPMN 2.0, UML (Sequence, Activity, Flow Charts), Value Stream Mapping |
-| **Metrics & KPIs** | Velocity & Throughput, Cycle/Lead Time, Predictability Reporting, SLA Management |
-| **Tools** | Jira, Confluence, Azure DevOps, Notion, Visio, LucidChart, Draw.io, Miro, Mural, Figma |
-| **Data & QA** | MySQL, MongoDB, User Acceptance Testing (UAT), Test Plans, Traceability Matrix (RTM) |
+| **Analysis** | Requirements Engineering (BRD, FRD, SRS), Prioritization, User Stories & Use Cases, Acceptance Criteria |
+| **Project Tools** | Jira/Confluence, Azure DevOps, Notion |
+| **Diagrams and Design** | Microsoft Visio, LucidChart, Draw.io, Miro, Mural, Figma (for prototyping and wireframing) |
+| **Modeling** | BPMN 2.0, UML (Sequence, Activity, Use Case Diagrams, Flow Charts), Value Stream Mapping |
+| **Data** | MySQL, MongoDB |
+| **Testing and Quality** | User Acceptance Testing (UAT), Test Plans, Traceability Matrix (RTM) |
+| **Languages** | Georgian (Native), English (C1+), Russian (B2+), French (B1) |
 
 ---
-
-### 🌐 Languages
-* **Georgian:** Native
-* **English:** C1+
-* **Russian:** B2
-* **French:** B1
 
 ### 🎓 Education and Certifications
 | | | |
