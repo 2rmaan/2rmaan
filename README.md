@@ -2,7 +2,7 @@
 
 ## *Senior Business Analyst & Project Manager*
 
-I specialize in bridging the gap between ambiguous business needs and technical execution. With over **8+ years in Senior Business Analysis** and **7+ years in Project Management** I lead large-scale cross-functional teams to deliver predictable, high-quality outcomes in high-stakes environments.
+I specialize in bridging the gap between ambiguous business needs and technical execution. With over **9+ years in Senior Business Analysis** and **6+ years in Project Management** I lead large-scale cross-functional teams to deliver predictable, high-quality outcomes in high-stakes environments.
 
 ### What I Focus On
 * 🚀 **End-to-End Product Delivery:** Managing the full SDLC/PMLC from discovery to deployment.
