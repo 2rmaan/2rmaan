@@ -16,7 +16,7 @@ I specialize in bridging the gap between ambiguous business needs and technical 
 * 💳 **Fintech & Payments:** Expertise in card processing, digital wallets, ATM integrations, and AML/KYC compliance.
 * 📈 **Finance:** Orchestrating strategic discovery and roadmaps for complex Investment Management initiatives.
 * 🎰 **iGaming:** Leading large-scale delivery for core web platforms and bespoke internal control systems.
-* 📱 **Media & Publishing:** Delivering high-load content management systems and native mobile applications.
+* 📱 **Media & Publishing:** Delivering high-load content management systems and native iOS/Android apps.
 * 🛒 **eCommerce:** Managing complex digital ecosystems to drive operational excellence.
 
 ---
