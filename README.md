@@ -22,22 +22,23 @@ I specialize in bridging the gap between ambiguous business needs and technical 
 ---
 
 ### 🛠️ Technical Arsenal & Methodologies
-| Category | Tools & Frameworks |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Methodologies** | SAFe, Scrum, Kanban, Agile, SDLC, PMLC |
-| **Project Management** | Jira, Azure DevOps, Notion, Confluence |
-| **Analysis & Modeling** | BPMN 2.0, UML, Requirements Engineering (BRD/FRD/SRS) |
-| **Design & Data** | Figma, LucidChart, Miro, MySQL, MongoDB |
+| **Methodologies** | SAFe®, Scrum, Kanban, Agile, SDLC, PMLC |
+| **Management** | Stakeholder Management, Risk Mitigation, Resource Allocation, Strategic Alignment |
+| **Analysis** | Requirements Engineering (BRD, FRD, SRS), Prioritization, User Stories, Acceptance Criteria |
+| **Modeling** | BPMN 2.0, UML (Sequence, Activity, Flow Charts), Value Stream Mapping |
+| **Metrics & KPIs** | Velocity & Throughput, Cycle/Lead Time, Predictability Reporting, SLA Management |
+| **Tools** | Jira, Confluence, Azure DevOps, Notion, Visio, LucidChart, Draw.io, Miro, Mural, Figma |
+| **Data & QA** | MySQL, MongoDB, User Acceptance Testing (UAT), Test Plans, Traceability Matrix (RTM) |
 
 ---
 
-### 🌟 Key Impact Highlights
-* **Fintech Ecosystem:** Architected and launched a high-security ecosystem, scaling to 65,000+ active users in 12 months.
-* **High-Load Systems:** Directed the delivery of a proprietary CMS engineered for massive real-time data updates during peak sporting events.
-* **Mobile Delivery:** Orchestrated end-to-end delivery for native iOS and Android applications, from wireframes to App Store approvals.
-* **Strategic Discovery:** Reduced development rework by synchronizing system expectations across technical and non-technical stakeholders.
-
----
+### 🌐 Languages
+* **Georgian:** Native
+* **English:** C1+
+* **Russian:** B2
+* **French:** B1
 
 ### 🎓 Education and Certifications
 | | | |
