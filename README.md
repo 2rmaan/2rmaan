@@ -42,9 +42,3 @@ I specialize in bridging the gap between ambiguous business needs and technical 
 | :---: | :---: | :---: |
 | <img src="big-Badge-SA-6-0.jpg" width="110"><br>**SAFe® 6 Agilist** | <img src="PSM I.png" width="110"><br>**PSM I** | <img src="Tallinn-University-of-Technology-logo.png" width="110"><br>**TAL TECH MBA** |
 | <img src="ccba-cert-badge-400x400.webp" width="110"><br>**IIBA® CCBA** | <img src="ecba-cert-badge-400x400.webp" width="110"><br>**IIBA® ECBA** | <img src="berkeley.jpeg" width="110"><br>**UC Berkeley AI Strategy** |
-
----
-
-### 📫 Connect with Me
-* 💼 [LinkedIn](https://www.linkedin.com/in/nturmanidze/)
-* 📧 [Email](mailto:turman.nana@gmail.com)
