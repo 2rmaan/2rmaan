@@ -5,6 +5,7 @@
 I specialize in bridging the gap between ambiguous business needs and technical execution. With over **9+ years in Senior Business Analysis** and **6+ years in Project Management** I lead large-scale cross-functional teams to deliver predictable, high-quality outcomes in high-stakes environments.
 
 ### What I Focus On
+* 🤖 **AI-Assisted & Spec-Driven Development:** writing machine-readable specifications that AI coding agents can act on directly.
 * 🚀 **End-to-End Product Delivery:** Managing the full SDLC/PMLC from discovery to deployment.
 * ⚙️ **Agile Transformation:** Certified SAFe® 6 Agilist focused on optimizing velocity, throughput, and predictability.
 * 🏦 **High-Regulated Domains:** Navigating complex requirements in Finance, Fintech (AML/KYC), and iGaming.
@@ -24,6 +25,7 @@ I specialize in bridging the gap between ambiguous business needs and technical 
 ### 🛠️ Technical Skills, Methodologies and Languages
 | Category | Skills & Tools |
 | :--- | :--- |
+| **MSpec-Driven Dev** | GitHub Spec-Kit, spec.md authoring, AI agent prompt specs, ACs as executable gates |
 | **Methodologies & Frameworks** | SAFe (Scaled Agile Framework), Scrum, Kanban, Agile, SDLC, PMLC |
 | **Metrics & KPIs** | Velocity & Throughput, Cycle Time/Lead Time, Predictability Reporting, SLA Management |
 | **Management** | Stakeholder Management, Risk Mitigation, Resource Allocation, Strategic Alignment |
