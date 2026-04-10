@@ -25,7 +25,7 @@ I specialize in bridging the gap between ambiguous business needs and technical 
 ### 🛠️ Technical Skills, Methodologies and Languages
 | Category | Skills & Tools |
 | :--- | :--- |
-| **MSpec-Driven Dev** | GitHub Spec-Kit, spec.md authoring, AI agent prompt specs, ACs as executable gates |
+| **MSpec-Driven Dev** | Cursor, Replit, Lovable, GitHub Spec-Kit, spec.md authoring, AI agent prompt specs, ACs as executable gates |
 | **Methodologies & Frameworks** | SAFe (Scaled Agile Framework), Scrum, Kanban, Agile, SDLC, PMLC |
 | **Metrics & KPIs** | Velocity & Throughput, Cycle Time/Lead Time, Predictability Reporting, SLA Management |
 | **Management** | Stakeholder Management, Risk Mitigation, Resource Allocation, Strategic Alignment |
