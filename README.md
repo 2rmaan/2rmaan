@@ -1,46 +1,71 @@
 # Hi, I'm Nana 👋
 
-## *Senior Business Analyst & Project Manager*
+## *Project & Delivery Manager (PMP®) · Senior Business Analyst (CCBA®)*
 
-I specialize in bridging the gap between ambiguous business needs and technical execution. With over **9+ years in Senior Business Analysis** and **6+ years in Project Management** I lead large-scale cross-functional teams to deliver predictable, high-quality outcomes in high-stakes environments.
+I own delivery end to end: scoping, planning, execution, risk control, UAT, production rollout and hypercare. With **6+ years of hands-on Project Management** and **9+ years of Senior Business Analysis** across Finance, Fintech & Payments, Media & Publishing and iGaming, I use a strong technical background to spot cross-functional dependencies early and resolve issues before they escalate, steering teams with delivery metrics in Scrum, Kanban and SAFe® environments.
 
-### What I Focus On
-* 🤖 **AI-Assisted & Spec-Driven Development:** Writing machine-readable specs that AI coding agents can act on directly.
-* 🚀 **End-to-End Product Delivery:** Managing the full SDLC/PMLC from discovery to deployment.
-* ⚙️ **Agile Transformation:** Certified SAFe® 6 Agilist focused on optimizing velocity, throughput, and predictability.
-* 🏦 **High-Regulated Domains:** Navigating complex requirements in Finance, Fintech (AML/KYC), and iGaming.
-* 📊 **Technical Alignment:** Translating high-level goals into precise BPMN/UML models for engineering teams.
+📍 Tbilisi, Georgia · [LinkedIn](https://linkedin.com/in/nturmanidze) · [All credentials](https://www.credential.net/profile/nanaturmanidze351891)
+
+---
+
+### 🔭 What I'm Working On Now
+Orchestrating a **zero-disruption migration of an investment management platform from legacy SQL to Databricks** for a Big Four client at **Exadel**: calculations, data imports, outputs and reporting. I coordinate two parallel Scrum teams (10+ developers, 3 architects, 4 QA engineers), act as Scrum Master, and validate calculation parity through automated tests and CI/CD so business users get faster runs and fewer failed calculations with no change to their workflow.
+
+---
+
+### 🏆 Key Achievements
+* 💳 Launched a **Fintech digital wallet** that scaled to **65,000+ active users** and **5,000+ daily transactions** within 12 months at **99.9% uptime**.
+* 📱 Delivered **native iOS and Android apps** from wireframes to App Store and Google Play approval, meeting **100% of launch deadlines**.
+* 🐞 Cut **post-release defects by 75%** by standardizing delivery and handoff frameworks across 4 Scrum teams (50+ people).
+* 🔄 Leading a **zero-disruption SQL → Databricks migration** of investment calculations and reporting.
+
+---
+
+### 🎯 What I Focus On
+* 🚀 **End-to-End Delivery:** Scope, milestones, release sequencing, cutover and hypercare across the full SDLC/PMLC.
+* ⚠️ **Risk & Dependency Management:** RAID tracking, cross-team dependencies and resource/capacity planning.
+* ⚙️ **Agile Delivery:** Scrum Master and SAFe® 6 Agilist, driving velocity and predictability through delivery metrics.
+* 🏦 **Highly Regulated Domains:** Investment Management, Fintech (AML/KYC, banking integrations) and iGaming.
+* 🤖 **Agentic AI in Project Delivery:** Spec-driven workflows with Claude, Cursor and GitHub Spec-Kit, plus automation with n8n and UiPath.
 
 ---
 
 ### 🌍 Industry Expertise
-* 💳 **Fintech & Payments:** Expertise in card processing, digital wallets, ATM integrations, and AML/KYC compliance.
-* 📈 **Finance:** Orchestrating strategic discovery and roadmaps for complex Investment Management initiatives.
-* 🎰 **iGaming:** Leading large-scale delivery for core web platforms and internal control systems.
-* 📱 **Media & Publishing:** Delivering high-load content management systems and native iOS/Android apps.
-* 🛒 **eCommerce:** Managing complex digital ecosystems to drive operational excellence.
+* 📈 **Finance (Investment Management):** Migration of investment calculations, data imports and reporting from legacy SQL to Databricks.
+* 💳 **Fintech & Payments:** Digital wallet, integrations with national banks (TBC, Bank of Georgia) and government providers, instant ATM withdrawals, utility payments, AI-driven KYC and real-time AML/Interpol blacklist sync.
+* 📱 **Media & Publishing:** High-load CMS for real-time updates during peak sporting events, responsive web platform and native iOS/Android apps.
+* 🎰 **iGaming:** Core web platform and 5+ bespoke internal control systems (CRM, CMS, Campaign Management).
 
 ---
 
-### 🛠️ Technical Skills, Methodologies and Languages
+### 🛠️ Skills, Tools and Languages
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Spec-Driven Workflows** | Cursor, Replit, Lovable, GitHub Spec-Kit, spec.md authoring, AI agent prompt specs, ACs as executable gates |
-| **Methodologies & Frameworks** | SAFe (Scaled Agile Framework), Scrum, Kanban, Agile, SDLC, PMLC |
-| **Metrics & KPIs** | Velocity & Throughput, Cycle Time/Lead Time, Predictability Reporting, SLA Management |
-| **Management** | Stakeholder Management, Risk Mitigation, Resource Allocation, Strategic Alignment |
-| **Analysis** | Requirements Engineering (BRD, FRD, SRS), Prioritization, User Stories & Use Cases, Acceptance Criteria |
-| **Project Tools** | Jira/Confluence, Azure DevOps, Notion |
-| **Diagrams and Design** | Microsoft Visio, LucidChart, Draw.io, Miro, Mural, Figma (for prototyping and wireframing) |
-| **Modeling** | BPMN 2.0, UML (Sequence, Activity, Use Case Diagrams, Flow Charts), Value Stream Mapping |
-| **Data** | MySQL, MongoDB |
-| **Testing and Quality** | User Acceptance Testing (UAT), Test Plans, Traceability Matrix (RTM) |
-| **Languages** | Georgian (Native), English (C1+), Russian (B2+), French (B1) |
+| **Project & Delivery** | Scope, Timeline & Milestone Planning, Risk & Dependency Management (RAID), Resource & Capacity Planning, Status Reporting, Stakeholder Management, Release & Cutover Planning |
+| **Delivery Metrics** | Velocity, Burndown, Cycle Time |
+| **Methodologies** | Scrum, Kanban, SAFe®, Agile, PMBOK® practices, SDLC, PMLC |
+| **Analysis & Quality** | Requirements Engineering (BRD, FRD, SRS), Backlog Prioritization, Acceptance Criteria, RTM, UAT, Test Planning, Hypercare |
+| **App Release** | Google Play Console, Apple App Store Connect (app setup, store listings, review and publishing) |
+| **Data & Platforms** | Databricks, SQL, MySQL, MongoDB, Firebase/Firestore, CI/CD pipelines |
+| **Tools** | Jira, Confluence, Azure DevOps, Trello, Notion, Visio, LucidChart, Figma |
+| **Modeling** | BPMN 2.0, UML |
+| **AI & Automation** | Claude, ChatGPT, Cursor, n8n, UiPath, GitHub Spec-Kit, MCP integrations (Cursor–Figma, Claude connectors), Agentic AI in project delivery |
+| **Languages** | Georgian (Native), English (C1+), Russian (B2), French (B1) |
 
 ---
 
-### 🎓 Education and Certifications
+### 🎓 Certifications and Education
 | | | |
 | :---: | :---: | :---: |
-| <img src="big-Badge-SA-6-0.jpg" width="110"><br>**SAFe® 6 Agilist** | <img src="PSM I.png" width="110"><br>**PSM I** | <img src="Tallinn-University-of-Technology-logo.png" width="110"><br>**TAL TECH MBA** |
-| <img src="ccba-cert-badge-400x400.webp" width="110"><br>**IIBA® CCBA** | <img src="ecba-cert-badge-400x400.webp" width="110"><br>**IIBA® ECBA** | <img src="berkeley.jpeg" width="110"><br>**UC Berkeley AI Strategy** |
+| <img src="pmp-badge.png" width="110"><br>**PMP®** | <img src="big-Badge-SA-6-0.jpg" width="110"><br>**SAFe® 6 Agilist** | <img src="ccba-cert-badge-400x400.webp" width="110"><br>**IIBA® CCBA** |
+| <img src="PSM I.png" width="110"><br>**PSM I** | <img src="ecba-cert-badge-400x400.webp" width="110"><br>**IIBA® ECBA** | <img src="berkeley.jpeg" width="110"><br>**UC Berkeley AI Strategy** |
+
+**AI credentials (2026)**
+* ChatGPT Deployment Practitioner, OpenAI Partner Network
+* ChatGPT Solutions Practitioner, OpenAI Partner Network
+* Foundations of Agentic AI for Project Professionals, PMI
+* PMI® Essentials: Agentic AI Build Lab for Project Managers, PMI
+
+**Education**
+* <img src="Tallinn-University-of-Technology-logo.png" width="22"> **MBA, International Business Administration**, TalTech (Tallinn University of Technology), Estonia. Thesis: *Identifying the Reasons Behind Project Failures Caused by Inadequate Sponsor Support*
+* **BA, International Relations and Political Science**, Ilia State University, Tbilisi
