@@ -9,7 +9,7 @@ I own delivery end to end: scoping, planning, execution, risk control, UAT, prod
 ---
 
 ### 🔭 What I'm Working On Now
-Orchestrating a **zero-disruption migration of an investment management platform from legacy SQL to Databricks** for a Big Four client at **Exadel**: calculations, data imports, outputs and reporting. I coordinate two parallel Scrum teams (10+ developers, 3 architects, 4 QA engineers), act as Scrum Master, and validate calculation parity through automated tests and CI/CD so business users get faster runs and fewer failed calculations with no change to their workflow.
+I'm a Senior Business Analyst at **Exadel**, working with a Big Four client to move their investment management platform from legacy SQL to **Databricks**. The work covers calculations, data imports, outputs and reports. I work with two Scrum teams, architects and QA to make sure the new platform gives the same results as the old one. That way business users get faster, more reliable calculations without changing how they work.
 
 ---
 
@@ -17,14 +17,14 @@ Orchestrating a **zero-disruption migration of an investment management platform
 * 💳 Launched a **Fintech digital wallet** that scaled to **65,000+ active users** and **5,000+ daily transactions** within 12 months at **99.9% uptime**.
 * 📱 Delivered **native iOS and Android apps** from wireframes to App Store and Google Play approval, meeting **100% of launch deadlines**.
 * 🐞 Cut **post-release defects by 75%** by standardizing delivery and handoff frameworks across 4 Scrum teams (50+ people).
-* 🔄 Leading a **zero-disruption SQL → Databricks migration** of investment calculations and reporting.
+* 🔄 Contributing to a **zero-disruption SQL → Databricks migration** of investment calculations and reporting.
 
 ---
 
 ### 🎯 What I Focus On
 * 🚀 **End-to-End Delivery:** Scope, milestones, release sequencing, cutover and hypercare across the full SDLC/PMLC.
 * ⚠️ **Risk & Dependency Management:** RAID tracking, cross-team dependencies and resource/capacity planning.
-* ⚙️ **Agile Delivery:** Scrum Master and SAFe® 6 Agilist, driving velocity and predictability through delivery metrics.
+* ⚙️ **Agile Delivery:** SAFe® 6 Agilist working in Scrum and Kanban teams, using delivery metrics to keep releases predictable.
 * 🏦 **Highly Regulated Domains:** Investment Management, Fintech (AML/KYC, banking integrations) and iGaming.
 * 🤖 **Agentic AI in Project Delivery:** Spec-driven workflows with Claude, Cursor and GitHub Spec-Kit, plus automation with n8n and UiPath.
 
