@@ -91,7 +91,7 @@ I'm a Senior Business Analyst at **Exadel**, working with a Big Four client to m
 <table>
   <tr>
     <td align="center" width="280"><img src="Tallinn-University-of-Technology-logo.png" height="90"><br><b>MBA, International<br>Business Administration</b><br><sub>TalTech, Estonia · 2016 – 2019</sub></td>
-    <td align="center" width="280"><img src="ilia-state-university-logo.png" height="90"><br><b>BA, International Relations<br>and Political Science</b><br><sub>Ilia State University · 2006 – 2010</sub></td>
+    <td align="center" width="280"><img src="Iliaunilogo.png" height="90"><br><b>BA, International Relations<br>and Political Science</b><br><sub>Ilia State University · 2006 – 2010</sub></td>
   </tr>
 </table>
 
