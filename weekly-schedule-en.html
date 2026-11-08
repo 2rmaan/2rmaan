@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weekly Schedule (English Translation)</title>
+  <style>
+    :root {
+      --border: #3d3d3d;
+      --header-bg: #f3f3f3;
+      --time-bg: #f7f7f7;
+      --pilates: #c6e5b3;
+      --chess: #f6c89a;
+      --painting-blue: #b7d7ea;
+      --painting-yellow: #ffe599;
+      --collage: #6fa8dc;
+      --climbing: #93c47d;
+      --theater: #f6b26b;
+      --yoga-yin: #d9ead3;
+      --default: #ffffff;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 24px;
+      color: #222;
+      background: #fafafa;
+    }
+
+    h1 {
+      font-size: 1.4rem;
+      margin: 0 0 8px;
+    }
+
+    p.note {
+      margin: 0 0 16px;
+      color: #555;
+      font-size: 0.95rem;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      background: #fff;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+    }
+
+    th, td {
+      border: 1px solid var(--border);
+      padding: 8px 10px;
+      vertical-align: top;
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+    th {
+      background: var(--header-bg);
+      text-align: center;
+      font-weight: 700;
+    }
+
+    td.time {
+      background: var(--time-bg);
+      font-weight: 700;
+      white-space: nowrap;
+      width: 120px;
+    }
+
+    td.slot {
+      width: 17%;
+      min-height: 72px;
+    }
+
+    .activity { font-weight: 700; }
+    .meta { display: block; }
+
+    .pilates { background: var(--pilates); }
+    .chess { background: var(--chess); }
+    .painting-blue { background: var(--painting-blue); }
+    .painting-yellow { background: var(--painting-yellow); }
+    .collage { background: var(--collage); }
+    .climbing { background: var(--climbing); }
+    .theater { background: var(--theater); }
+    .yoga-yin { background: var(--yoga-yin); }
+
+    .legend {
+      margin-top: 18px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 14px;
+      font-size: 13px;
+    }
+
+    .legend span {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .swatch {
+      width: 16px;
+      height: 16px;
+      border: 1px solid var(--border);
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Weekly Schedule</h1>
+  <p class="note">English translation of the German timetable. Instructor names are unchanged.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Time / Day</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="time">08:30 – 10:00</td>
+        <td class="slot"></td>
+        <td class="slot"></td>
+        <td class="slot"></td>
+        <td class="slot"></td>
+        <td class="slot">
+          <span class="activity">Guided Imagery</span>
+          <span class="meta">Nike Starke</span>
+          <span class="meta">Grade 1</span>
+          <span class="meta">Music room</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="time">10:00 – 11:30</td>
+        <td class="slot pilates">
+          <span class="activity">Pilates</span>
+          <span class="meta">Christina Busch</span>
+          <span class="meta">Grades 1–10 (age 12+)</span>
+          <span class="meta">Music room</span>
+        </td>
+        <td class="slot chess">
+          <span class="activity">Chess</span>
+          <span class="meta">Mariam Jansakvili</span>
+          <span class="meta">Grade 1</span>
+          <span class="meta">Grade 1 break room</span>
+        </td>
+        <td class="slot chess">
+          <span class="activity">Chess</span>
+          <span class="meta">Mariam Jansakvili</span>
+          <span class="meta">Grade 1</span>
+          <span class="meta">Grade 1 break room</span>
+        </td>
+        <td class="slot"></td>
+        <td class="slot">
+          <span class="activity">Yoga</span>
+          <span class="meta">Jelena Sergievska</span>
+          <span class="meta">Grade 1</span>
+          <span class="meta">Music room</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="time">11:30 – 13:00</td>
+        <td class="slot">
+          <span class="activity">Clay</span>
+          <span class="meta">Sabine Diematte</span>
+          <span class="meta">Grade 1</span>
+          <span class="meta">Art room</span>
+        </td>
+        <td class="slot">
+          <span class="activity">Singing</span>
+          <span class="meta">Nike Starke</span>
+          <span class="meta">Grade 1</span>
+          <span class="meta">Grade 1 break room</span>
+        </td>
+        <td class="slot">
+          <span class="activity">Video</span>
+          <span class="meta">Sonja Appelton</span>
+          <span class="meta">Grade 1</span>
+          <span class="meta">Art room</span>
+        </td>
+        <td class="slot"></td>
+        <td class="slot">
+          <span class="activity">Clay</span>
+          <span class="meta">Sabine Diematte</span>
+          <span class="meta">Grade 1</span>
+          <span class="meta">Art room</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="time">13:00 – 14:30</td>
+        <td class="slot"></td>
+        <td class="slot"></td>
+        <td class="slot"></td>
+        <td class="slot"></td>
+        <td class="slot chess">
+          <span class="activity">Chess</span>
+          <span class="meta">Mariam Jansakvili</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Grade 1 break room</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="time">14:30 – 16:00</td>
+        <td class="slot painting-blue">
+          <span class="activity">Painting / Woodwork</span>
+          <span class="meta">David Parabohm</span>
+          <span class="meta">Grades 1–4 (up to age 12)</span>
+          <span class="meta">Workshop</span>
+        </td>
+        <td class="slot painting-blue">
+          <span class="activity">Painting / Woodwork</span>
+          <span class="meta">David Parabohm</span>
+          <span class="meta">Grades 1–4 (up to age 12)</span>
+          <span class="meta">Workshop</span>
+        </td>
+        <td class="slot">
+          <span class="activity">Video</span>
+          <span class="meta">Sonja Appelton</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Art room</span>
+        </td>
+        <td class="slot painting-yellow">
+          <span class="activity">Painting / Woodwork</span>
+          <span class="meta">Sonja Appelton</span>
+          <span class="meta">Grades 1–4</span>
+          <span class="meta">Workshop</span>
+        </td>
+        <td class="slot">
+          <span class="activity">Clay</span>
+          <span class="meta">Sabine Diematte</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Art room</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="time">16:00 – 17:30</td>
+        <td class="slot">
+          <span class="activity">Clay</span>
+          <span class="meta">Sabine Diematte</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Art room</span>
+        </td>
+        <td class="slot chess">
+          <span class="activity">Chess</span>
+          <span class="meta">Mariam Jansakvili</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Grade 1 break room</span>
+        </td>
+        <td class="slot chess">
+          <span class="activity">Chess</span>
+          <span class="meta">Mariam Jansakvili</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Grade 1 break room</span>
+        </td>
+        <td class="slot"></td>
+        <td class="slot">
+          <span class="activity">Yoga</span>
+          <span class="meta">Jelena Sergievska</span>
+          <span class="meta">Grades 1–4</span>
+          <span class="meta">Music room</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="time">17:30 – 19:00</td>
+        <td class="slot">
+          <span class="activity">Football</span>
+          <span class="meta">Bruno Wolf</span>
+          <span class="meta">Grades 1–4</span>
+          <span class="meta">Sports field</span>
+        </td>
+        <td class="slot">
+          <span class="activity">Yoga</span>
+          <span class="meta">Jelena Sergievska</span>
+          <span class="meta">Grades 1–4</span>
+          <span class="meta">Music room</span>
+        </td>
+        <td class="slot collage">
+          <span class="activity">Collage</span>
+          <span class="meta">Maria Wildenhorst</span>
+          <span class="meta">Grades 1–4</span>
+          <span class="meta">Workshop</span>
+        </td>
+        <td class="slot collage">
+          <span class="activity">Collage</span>
+          <span class="meta">Maria Wildenhorst</span>
+          <span class="meta">Grades 1–4</span>
+          <span class="meta">Art room</span>
+        </td>
+        <td class="slot">
+          <span class="activity">Tai Chi</span>
+          <span class="meta">Mr. Lutz Schugall</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Art room</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="time">19:00 – 20:30</td>
+        <td class="slot">
+          <span class="activity">Volleyball</span>
+          <span class="meta">Malte de Raad</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Sports hall</span>
+        </td>
+        <td class="slot climbing">
+          <span class="activity">Climbing</span>
+          <span class="meta">Max Musterfrau</span>
+          <span class="meta">Grades 1–4 (up to age 12)</span>
+          <span class="meta">Sports hall</span>
+        </td>
+        <td class="slot">
+          <span class="activity">Volleyball</span>
+          <span class="meta">Malte de Raad</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Sports hall</span>
+        </td>
+        <td class="slot climbing">
+          <span class="activity">Climbing</span>
+          <span class="meta">Max Musterfrau</span>
+          <span class="meta">Grades 1–4 (up to age 12)</span>
+          <span class="meta">Sports hall</span>
+        </td>
+        <td class="slot collage">
+          <span class="activity">Painting / Woodwork</span>
+          <span class="meta">Maria Wildenhorst</span>
+          <span class="meta">Grades 1–4</span>
+          <span class="meta">Workshop</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="time">20:30 – 22:00</td>
+        <td class="slot yoga-yin">
+          <span class="activity">Yoga with Yin Asanas</span>
+          <span class="meta">Nike Starke</span>
+          <span class="meta">Grade 1</span>
+          <span class="meta">Grade 1 break room</span>
+        </td>
+        <td class="slot"></td>
+        <td class="slot theater">
+          <span class="activity">Drama Club</span>
+          <span class="meta">Mariam Jansakvili</span>
+          <span class="meta">Grades 1–10</span>
+          <span class="meta">Music room 1</span>
+        </td>
+        <td class="slot"></td>
+        <td class="slot pilates">
+          <span class="activity">Pilates</span>
+          <span class="meta">Christina Busch</span>
+          <span class="meta">Grades 1–10 (age 12+)</span>
+          <span class="meta">Sports hall</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="legend">
+    <span><i class="swatch pilates"></i> Pilates / Yin yoga</span>
+    <span><i class="swatch chess"></i> Chess</span>
+    <span><i class="swatch painting-blue"></i> Painting / Woodwork</span>
+    <span><i class="swatch painting-yellow"></i> Painting / Woodwork (Thu)</span>
+    <span><i class="swatch collage"></i> Collage / evening painting</span>
+    <span><i class="swatch climbing"></i> Climbing</span>
+    <span><i class="swatch theater"></i> Drama Club</span>
+  </div>
+</body>
+</html>
