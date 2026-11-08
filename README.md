@@ -54,18 +54,37 @@ I'm a Senior Business Analyst at **Exadel**, working with a Big Four client to m
 
 ---
 
-### 🎓 Certifications and Education
-| | | |
-| :---: | :---: | :---: |
-| <img src="pmp-badge.png" width="110"><br>**PMP®** | <img src="big-Badge-SA-6-0.jpg" width="110"><br>**SAFe® 6 Agilist** | <img src="ccba-cert-badge-400x400.webp" width="110"><br>**IIBA® CCBA** |
-| <img src="PSM I.png" width="110"><br>**PSM I** | <img src="ecba-cert-badge-400x400.webp" width="110"><br>**IIBA® ECBA** | <img src="berkeley.jpeg" width="110"><br>**UC Berkeley AI Strategy** |
+### 🎓 Certifications
 
-**AI credentials (2026)**
-* ChatGPT Deployment Practitioner, OpenAI Partner Network
-* ChatGPT Solutions Practitioner, OpenAI Partner Network
-* Foundations of Agentic AI for Project Professionals, PMI
-* PMI® Essentials: Agentic AI Build Lab for Project Managers, PMI
+**Project Management, Agile & Business Analysis**
 
-**Education**
-* <img src="Tallinn-University-of-Technology-logo.png" width="22"> **MBA, International Business Administration**, TalTech (Tallinn University of Technology), Estonia. Thesis: *Identifying the Reasons Behind Project Failures Caused by Inadequate Sponsor Support*
-* **BA, International Relations and Political Science**, Ilia State University, Tbilisi
+<table>
+  <tr>
+    <td align="center" width="160"><img src="pmp-badge.png" height="90"><br><b>PMP®</b><br><sub>PMI · 2026</sub></td>
+    <td align="center" width="160"><img src="big-Badge-SA-6-0.jpg" height="90"><br><b>SAFe® 6 Agilist</b><br><sub>Scaled Agile · 2026</sub></td>
+    <td align="center" width="160"><img src="PSM I.png" height="90"><br><b>PSM I</b><br><sub>Scrum.org · 2019</sub></td>
+    <td align="center" width="160"><img src="ccba-cert-badge-400x400.webp" height="90"><br><b>CCBA®</b><br><sub>IIBA · 2024</sub></td>
+    <td align="center" width="160"><img src="ecba-cert-badge-400x400.webp" height="90"><br><b>ECBA®</b><br><sub>IIBA · 2023</sub></td>
+  </tr>
+</table>
+
+**AI**
+
+<table>
+  <tr>
+    <td align="center" width="160"><img src="pmi-foundations-agentic-ai-for-project-professionals.png" height="90"><br><b>Foundations of Agentic AI</b><br><sub>PMI · 2026</sub></td>
+    <td align="center" width="160"><img src="pmi-essentials-agentic-ai-build-lab.png" height="90"><br><b>Agentic AI Build Lab</b><br><sub>PMI · 2026</sub></td>
+    <td align="center" width="160"><img src="berkeley.jpeg" height="90"><br><b>AI: Business Strategies</b><br><sub>UC Berkeley Haas · 2024</sub></td>
+  </tr>
+</table>
+
+Also: **ChatGPT Deployment Practitioner** and **ChatGPT Solutions Practitioner**, OpenAI Partner Network (2026)
+
+---
+
+### 🏛️ Education
+
+| Degree | School | Years |
+| :--- | :--- | :---: |
+| **MBA, International Business Administration** | TalTech, Tallinn University of Technology, Estonia | 2016 – 2019 |
+| **BA, International Relations and Political Science** | Ilia State University, Tbilisi | 2006 – 2010 |
