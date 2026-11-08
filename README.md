@@ -72,6 +72,11 @@ I'm a Senior Business Analyst at **Exadel**, working with a Big Four client to m
 
 <table>
   <tr>
+    <td align="center" width="160"><img src="https://api.accredible.com/v1/credentials/bvre27cz/artifact/badge" height="90"><br><b>ChatGPT Deployment Practitioner</b><br><sub>OpenAI · 2026</sub></td>
+    <td align="center" width="160"><img src="https://api.accredible.com/v1/credentials/fsyml2bl/artifact/badge" height="90"><br><b>ChatGPT Solutions Practitioner</b><br><sub>OpenAI · 2026</sub></td>
+    <td align="center" width="160"><img src="https://api.accredible.com/v1/credentials/nbdidypr/artifact/badge" height="90"><br><b>OpenAI Technical Practitioner</b><br><sub>OpenAI · 2026</sub></td>
+  </tr>
+  <tr>
     <td align="center" width="160"><img src="pmi-foundations-agentic-ai-for-project-managers.png" height="90"><br><b>Foundations of Agentic AI</b><br><sub>PMI · 2026</sub></td>
     <td align="center" width="160"><img src="pmi-essentials-agentic-ai-build-lab-for-project-man.png" height="90"><br><b>Agentic AI Build Lab</b><br><sub>PMI · 2026</sub></td>
     <td align="center" width="160"><img src="berkeley.jpeg" height="90"><br><b>AI: Business Strategies</b><br><sub>UC Berkeley Haas · 2024</sub></td>
