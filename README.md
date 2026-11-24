@@ -78,7 +78,7 @@ I'm a Senior Business Analyst at **Exadel**, working with a Big Four client to m
   </tr>
   <tr>
     <td align="center" width="230"><img src="pmi-foundations-agentic-ai-for-project-managers.png" height="90"><br><b>Foundations of<br>Agentic AI</b><br><sub>PMI · 2026</sub></td>
-    <td align="center" width="230"><img src="pmi-essentials-agentic-ai-build-lab-for-project-man.png" height="90"><br><b>Agentic AI<br>Build Lab</b><br><sub>PMI · 2026</sub></td>
+    <td align="center" width="230"><img src="ai-in-agile-delivery.png" height="90"><br><b>AI in Agile<br>Delivery</b><br><sub>PMI · 2026</sub></td>
     <td align="center" width="230"><img src="berkeley.jpeg" height="90"><br><b>AI: Business<br>Strategies</b><br><sub>UC Berkeley Haas · 2024</sub></td>
   </tr>
 </table>
